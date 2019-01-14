@@ -1,0 +1,4 @@
+fixtures:
+  symlinks:
+    tomcat: "#{source_dir}"
+    java: "#{source_dir}/../java"
